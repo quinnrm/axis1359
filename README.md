@@ -1,6 +1,6 @@
 # axis1359
 
-Repo to experiment with GitHub settings.
+Repo to experiment with GitHub settings and features.
 
 There aren't going to be any files of substance here. Everything here is for testing purposes.
 
